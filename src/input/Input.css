@@ -1,0 +1,31 @@
+.input{
+    display: flex;
+    justify-content: space-between;
+}
+
+form{
+    width: 40vw;
+    padding: 2%;
+}
+
+form div{
+    padding: 1% 0%;
+}
+
+input{
+    /* display: inline-block; */
+    width: 10vw;
+}
+.checks{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.display{
+    width: 50vw;
+    /* border: 2px solid; */
+    padding: 1%;
+    padding-top: 2dvh;
+    
+}
